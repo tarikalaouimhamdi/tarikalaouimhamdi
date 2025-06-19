@@ -48,7 +48,7 @@ SaaS tool to help teams manage Analytics tracking plans.
 
 - 📊 [Certified Data Science Practitioner – CertNexus](https://verify.certnexus.com/5589D3ECF6C1E2D4D48B45EBEF12CB749EAB60B0)  
 - 🧠 [Google AI Essentials – Grow with Google](https://www.credential.net/6cb6e6e8-68a2-4de2-b59f-d9dfe9d9db3f)  
-- 🧪 [Swift Certification – CodinGame](https://www.codingame.com/certification/Tarik%20Alaoui%20M’hamdi/Swift/r/96a1b8c104de5a8d799df2b3200084c2)
+- 🧪 [Swift Certification – CodinGame](https://www.codingame.com/certification/_PMYXGwDKzMBRelGQyuwjw)
 
 
 ---
