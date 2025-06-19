@@ -1,43 +1,64 @@
 # 👋 Hi, I'm Tarik Alaoui M’hamdi
 
-## 🚀 iOS Tech Lead | FullStack Developer | Software Craftsman
+## 🚀 iOS Tech Lead & FullStack Developer | 20+ Years of Experience | Software Architect
 
-Welcome to my GitHub profile! I’m a passionate software engineer with 20+ years of experience in building impactful digital products — from elegant iOS apps to fullstack web solutions.
-
----
-
-### 🧠 What I Do
-
-- 📱 **iOS Development** — Swift, SwiftUI, Combine, Clean Architecture, VIPER  
-- 🌍 **Web & Backend** — Node.js, Vue.js, PHP, Nuxt, GraphQL, REST APIs  
-- 🧱 **Architecture & DevOps** — CI/CD (Bitrise, GitHub Actions), Firebase, Docker  
-- 🛠️ **Mentoring & Code Quality** — Unit Testing, TDD, Clean Code, Agile/Scrum  
-- 🔒 **DataOps & SecOps** — OpenAPI, IAM/S3 rights, Cybersecurity best practices
+Welcome to my GitHub! I’m a seasoned developer and tech lead with 20+ years of experience crafting scalable mobile and web applications.
 
 ---
 
-### 💼 Some Brands I Worked With
+### 🔧 Technical Expertise
 
-- **Chanel** – Chat & Call Swift Package shared across multiple apps  
-- **Accor** – iOS app with 1M+ active users/month, generating €70M+ monthly  
-- **Air France** – iPad apps for flight crews & regulatory documentation  
+**Mobile Development**
+- Native iOS with Swift, SwiftUI, Combine, VIPER, Clean Architecture
+- Objective-C, UIKit, Swift Concurrency, CI/CD with Bitrise & TestFlight
 
----
+**FullStack Web**
+- Frontend: Vue.js, Nuxt.js, TypeScript, Vite.js, HTML/CSS/JS
+- Backend: Node.js, PHP 8, REST, GraphQL, Apollo, Python, Firebase
 
-### 📫 Let’s Connect
-
-- 🌐 [alaoui.me](https://alaoui.me)  
-- 💼 [LinkedIn](https://linkedin.com/in/tarikalaouimhamdi)  
-- 📬 tarik@alaoui.me  
-
----
-
-### 📌 Fun Facts
-
-- 🧩 I love solving complex UI/UX problems with simple, scalable code  
-- 🧪 Always exploring new tech: ARKit, HealthKit, Machine Learning, MLOps  
-- 🏗️ Side projects include automation tools, IoT prototypes and custom CMS
+**Data / DevOps**
+- SQL / NoSQL: PostgreSQL, MySQL, MongoDB
+- ETL: SSIS, Shell scripting, Docker, CI/CD pipelines
+- Security: IAM, OpenAPI, Cybersecurity best practices
+- AI: Whisper TTS, FFMPEG, Generative AI
 
 ---
 
-_“Simplicity is the ultimate sophistication.” – Leonardo da Vinci_
+### 💼 Notable Projects
+
+**📱 Chanel**  
+Built a reusable chat & audio call Swift Package (SwiftUI) integrated into multiple B2C/internal apps.  
+*Stack: Swift, SwiftUI, Combine, CI/CD, Firebase, Sendbird*
+
+**🏨 Accor – ALL.com**  
+Led SwiftUI & VIPER refactor of iOS app with 1M+ MAU and €70M/month revenue.  
+*Stack: Swift, VIPER, SwiftUI, GraphQL, Bitrise, Firebase*
+
+**✈️ Air France**  
+Developed internal iPad tools (CabinPad, M@DOC) for flight crew (PNC/PNT).  
+*Stack: Swift, Objective-C, HTML, PDF/EPUB media engine, Bamboo CI*
+
+**🛠️ Co-founder – SpecLake**  
+SaaS tool to help teams manage Analytics tracking plans.  
+*Stack: Nuxt.js, TypeScript, Apollo Server, NodeJS, GraphQL, CI/CD*
+
+---
+
+### 🧠 Certifications
+
+- 📊 Certified Data Science Practitioner – CertNexus  
+- 🧠 Google AI Essentials  
+- 🧪 Swift Certification (CodinGame – Score 90%)
+
+---
+
+### 🌐 Find Me Online
+
+- 🌍 Website: [alaoui.me](https://alaoui.me)  
+- 💼 LinkedIn: [linkedin.com/in/tarikalaouimhamdi](https://www.linkedin.com/in/tarikalaouimhamdi)  
+- 🧑‍💻 GitHub: [github.com/tarikalaouimhamdi](https://github.com/tarikalaouimhamdi)  
+- 📧 Email: tarik@alaoui.me  
+
+---
+
+> "Delivering clean, scalable, and impactful software — from mobile to fullstack."
