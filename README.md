@@ -46,9 +46,13 @@ SaaS tool to help teams manage Analytics tracking plans.
 
 ### 🧠 Certifications
 
-- 📊 [Certified Data Science Practitioner – CertNexus](https://verify.certnexus.com/5589D3ECF6C1E2D4D48B45EBEF12CB749EAB60B0)  
-- 🧠 [Google AI Essentials – Grow with Google](https://www.credential.net/6cb6e6e8-68a2-4de2-b59f-d9dfe9d9db3f)  
 - 🧪 [Swift Certification – CodinGame](https://www.codingame.com/certification/_PMYXGwDKzMBRelGQyuwjw)
+- 📊 CERTIFIED DATA SCIENCE PRACTITIONER - CERTNEXUS 
+	[Extract, Transform and Load](https://coursera.org/verify/RHKGTM0K9OXY)
+	[Address Business Issues with Data Science](https://coursera.org/verify/YEZN6OI5WPZ6)
+	[Analyse Data](https://coursera.org/verify/FWX6A626NU3J)
+	[Train Machine Learning Models](https://coursera.org/verify/R8350UD3GB2I)
+- 🧠 [Google AI Essentials – Grow with Google](https://www.credly.com/badges/8f04dbd1-dba3-4962-90b7-9a7bdb2e438b/public_url)  
 
 
 ---
