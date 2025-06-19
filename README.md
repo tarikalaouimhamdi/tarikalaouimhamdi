@@ -4,6 +4,14 @@
 
 Welcome to my GitHub! I’m a seasoned developer and tech lead with 20+ years of experience crafting scalable mobile and web applications.
 
+🎯 As a Senior Developer and Tech Lead, I have over 20 years of experience in mobile (iOS) and fullstack web development.
+
+Fluent in the Apple ecosystem (Swift, SwiftUI, Combine, VIPER, Clean Architecture) as well as modern web stacks (Vue.js, Node.js, PHP, GraphQL), I contribute to high-stakes projects with a product-oriented approach focused on performance, quality, and scalability.
+
+This dual expertise enables me to design end-to-end solutions—from backend to user interface—while ensuring technical consistency, seamless UX, and maintainable code.
+
+I enjoy working within multidisciplinary teams, delivering concrete solutions, and leading the technical implementation of innovative projects.
+
 ---
 
 ### 🔧 Technical Expertise
