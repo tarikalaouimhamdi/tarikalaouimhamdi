@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tarik Alaoui M’hamdi
 
-## 🚀 iOS Tech Lead & FullStack Developer | 20+ Years of Experience | Software Architect
+##  TECH LEAD & SENIOR iOS DEVELOPER
 
-Welcome to my GitHub! I’m a seasoned developer and tech lead with 20+ years of experience crafting scalable mobile and web applications.
+Welcome to my GitHub!
 
 🎯 As a Senior Developer and Tech Lead, I have over 20 years of experience in mobile (iOS) and fullstack web development.
 
