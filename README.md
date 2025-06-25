@@ -158,6 +158,10 @@ Developed internal iPad tools (CabinPad, M@DOC) for flight crew (PNC/PNT).
 SaaS tool to help teams manage Analytics tracking plans.  
 *Stack: Nuxt.js, TypeScript, Apollo Server, NodeJS, GraphQL, CI/CD*
 
+**📺 IOS_IPTV_PLAYER**  
+An advanced IPTV player application built for iOS using Swift. This project features support for live TV, VOD, and series streaming, with integration for Google Cast and a modular component-based architecture for scalability and maintainability.  
+*[Github project](https://github.com/tarikalaouimhamdi/IOS_IPTV_PLAYER)*
+
 ---
 
 ### 🧠 Certifications
